@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Mistral', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+p {
+    font-weight: 400;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
